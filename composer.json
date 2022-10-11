@@ -1,0 +1,22 @@
+{
+  "name": "investisdrupal/idnative",
+  "description": "ID NAtive",
+  "type": "drupal-module",
+  "keywords": [
+    "Drupal",
+    "Toolbar"
+  ],
+  "homepage": "https://github.com/parvind87/compose.git",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Wilfrid Roze (eme)",
+      "homepage": "https://www.drupal.org/u/eme",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/admin_toolbar",
+    "source": "https://git.drupalcode.org/project/admin_toolbar"
+  }
+}
